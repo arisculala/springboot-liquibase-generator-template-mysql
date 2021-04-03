@@ -1,8 +1,8 @@
 # springboot-liquibase-generator-template-mysql
 
 ## Prerequisite:
-Make sure to install maven (https://maven.apache.org/install.html)
-Make sure to install mysql (https://dev.mysql.com/doc/mysql-osx-excerpt/5.7/en/osx-installation-pkg.html)
+* Make sure to install maven (https://maven.apache.org/install.html)
+* Make sure to install mysql (https://dev.mysql.com/doc/mysql-osx-excerpt/5.7/en/osx-installation-pkg.html)
 
 
 - Make sure that you have installed mysql in your local
